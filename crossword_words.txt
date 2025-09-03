@@ -1,0 +1,209 @@
+104
+apple
+A common fruit with a red or green skin.
+banana
+A yellow fruit that is peeled before eating.
+cherry
+A small, round fruit with a pit inside.
+dog
+A domesticated, loyal animal often kept as a pet.
+elephant
+A large mammal known for its long trunk and tusks.
+flower
+A colorful and fragrant bloom.
+guitar
+A musical instrument with strings.
+happy
+An emotion characterized by joy and contentment.
+icecream
+A frozen dessert often enjoyed on a hot day.
+jungle
+A dense and overgrown forest.
+kangaroo
+A marsupial native to Australia.
+lemon
+A citrus fruit with a sour taste.
+mountain
+A towering landform with rocky peaks.
+notebook
+A notebook for writing and recording information.
+orange
+A citrus fruit with a sweet and tangy flavor.
+penguin
+A flightless bird with distinctive black and white feathers.
+quasar
+A celestial object emitting powerful energy.
+rainbow
+A spectrum of colors in the sky after rain.
+sunflower
+A bright and cheerful flower.
+turtle
+A reptile with a hard shell.
+umbrella
+A device to protect from rain.
+violin
+A string instrument played with a bow.
+watermelon
+A large, juicy fruit with green rind and red flesh.
+xylophone
+A percussion instrument with wooden bars.
+zebra
+A black and white striped mammal.
+astronomy
+The scientific study of celestial objects and phenomena.
+butterfly
+An insect with colorful wings.
+caterpillar
+The larval stage of a butterfly.
+dolphin
+A marine mammal known for its intelligence.
+earth
+The third planet from the sun.
+fireworks
+Explosive and colorful pyrotechnic displays.
+galaxy
+A vast system of stars, gas, and dust.
+happiness
+A state of well-being and contentment.
+island
+A landmass surrounded by water.
+jigsaw
+A puzzle with irregularly shaped pieces.
+kite
+A flying toy tethered to a string.
+lighthouse
+A tall structure with a light to guide ships.
+moonlight
+Soft, natural light from the moon.
+novel
+A long fictional prose narrative.
+ocean
+A large body of saltwater.
+paradise
+A place of perfect happiness and bliss.
+quilt
+A bed cover made of stitched fabric.
+rocket
+A vehicle that travels into space.
+starlight
+Light from stars at night.
+telescope
+An optical instrument for viewing distant objects.
+universe
+All that exists, including stars, galaxies, and space.
+volcano
+A mountain that spews lava and ash.
+whale
+A large marine mammal.
+xray
+A form of electromagnetic radiation.
+yellow
+The color of ripe lemons.
+zoo
+A place where animals are kept for public exhibition.
+breeze
+A gentle wind.
+carousel
+A rotating machine with seats for amusement.
+dandelion
+A wildflower with fluffy seed heads.
+effervescent
+Bubbly, fizzy, and sparkling.
+fountain
+A stream of water usually shot upward.
+gentle
+Soft and mild, not harsh.
+harmony
+A state of peaceful coexistence.
+illusion
+Something that deceives the senses.
+journey
+A journey or trip.
+kaleidoscope
+A constantly changing pattern or sequence.
+lullaby
+A soothing song to help sleep.
+marvel
+Something causing wonder or astonishment.
+nostalgia
+A feeling of pleasure mixed with sadness.
+overture
+An introductory musical composition.
+paradox
+A statement or situation that contradicts itself.
+quintessence
+The most perfect or typical example of something.
+serendipity
+An unexpected and fortunate discovery.
+tranquil
+Calm and peaceful.
+unique
+Being the only one of its kind.
+vivid
+Clear, detailed, and bright.
+whimsical
+Playfully quaint or fanciful.
+xanadu
+An idealized place of great beauty and contentment.
+yearning
+A yearning for something.
+zenith
+The highest point in the heavens.
+ballet
+A form of dance.
+comet
+A celestial object with a bright tail of gas and dust.
+delight
+A great source of joy and delight.
+ethereal
+Extremely delicate and light in a way that seems not to be of this world.
+fantasy
+An imagined world or sequence of events.
+graceful
+Graceful and elegant in form or movement.
+hologram
+A three-dimensional image created by laser beams.
+innocence
+The state of being free from guilt or sin.
+jubilation
+A feeling of great happiness and triumph.
+kismet
+Destiny or fate.
+labyrinth
+A winding and confusing network.
+mystical
+Having a spiritual significance or symbolism.
+nebula
+A luminous patch of gas or dust in the night sky.
+opulent
+Richly and impressively splendid.
+perennial
+Lasting through the years.
+quicksilver
+A flowing, shining metal.
+resplendent
+Brilliant and magnificent.
+serenity
+The state of being calm and peaceful.
+twilight
+The soft, diffused light from the sky when the sun is below the horizon.
+utopia
+An imagined perfect place or state of things.
+velvet
+A soft fabric with a smooth and dense pile.
+wonder
+A feeling of amazement and admiration.
+xenon
+A chemical element often used in lights.
+yearn
+To have an intense desire or longing for something.
+zephyr
+A gentle, mild wind.
+blackboard
+The board used to teach student and school.
+
+
+tsttr
+jtstrjuyt
+dfa
+ganrarjn
