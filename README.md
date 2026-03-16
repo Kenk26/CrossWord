@@ -10,6 +10,18 @@ A fully functional crossword puzzle game built in **C with a GTK4 GUI**. Feature
 ---
 
 ## 📸 Preview
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="image_1.jpg" width="400"/></td>
+      <td><img src="image 2.jpg" width="400"/></td>
+    </tr>
+    <tr>
+      <td><img src="image 3.jpg" width="400"/></td>
+      <td><img src="image 4.jpg" width="400"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -176,5 +188,5 @@ minimum score = 0
 ## 👨‍💻 Author
 
 - **Ankit Kumar** — [@Kenk26](https://github.com/Kenk26)
-- **Ankit Kumar** — [@Kenk26](https://github.com/Kenk26)
-- **Ankit Kumar** — [@Kenk26](https://github.com/Kenk26)
+- **Abhay Singh** — [@Abhay0421](https://github.com/Abhay0421)
+- **Shresth Dwivedi** — [@ShresthDw](https://github.com/ShresthDw)
